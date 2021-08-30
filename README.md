@@ -1,4 +1,4 @@
-# Audible Bibliothek Funtions
+# Audible Bibliothek Functions
 
 
 Funktionen (GET, POST, ...) für die private Audible Bibliothek.
